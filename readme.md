@@ -1,4 +1,4 @@
-# Getting Started With Web 3.0
+# Web 3.0 Resources for Newbies
 
 This repo contains links to articles and other resources for newbies who want to learn about Web 3.0.
 
