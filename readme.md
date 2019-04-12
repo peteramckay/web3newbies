@@ -6,7 +6,9 @@ For our purposes, "Web 3.0" is defined loosely as anything that promotes decentr
 
 There's just one thing I'm going to explicitly put outside of scope: Resources that primarily relate to trading or speculation in cryptocurrencies. I have nothing against that topic in principle, mind you. It's just that there are a lot of other places where anyone interested in it can find such information. For the sake of differentation, the focus here here is very much in the "blockchain not crypto" mode.
 
-To add something to the list: TKTKTK
+To add something to the list, please leave a suggestion in the comments on the open issue at http://bit.ly/2DczXjD
+
+This collection is -- and always will be -- free to use under MIT License. Please use and share it however you like to spread the word about the decentralized web.
 
 Cheers,
 
