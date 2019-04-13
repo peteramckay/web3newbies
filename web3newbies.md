@@ -26,8 +26,9 @@
 ### Recommended Twitter Accounts
 - <a href="https://twitter.com/web3foundation">@web3foundation</a>
 - <a href="https://twitter.com/convoluted_code">@convoluted_code</a>
-- <a href=""></a>
+- <a href="https://twitter.com/jutta_steiner">@jutta_steiner</a>
+- <a href="https://twitter.com/BrendanEich">@BrendanEich</a>
 - <a href="https://twitter.com/BraveSampson">@BraveSampson</a>
-- <a href=""></a>: Jutta Steiner
-- <a href=""></a>: Anastasia Dimou
-- <a href=""></a>: Sir Tim Berners-Lee
+- <a href="https://twitter.com/timberners_lee">@timberners_lee</a>
+- <a href="https://twitter.com/inrupt">@inrupt</a>
+- <a href="https://twitter.com/natadimou">@natadimou</a>
