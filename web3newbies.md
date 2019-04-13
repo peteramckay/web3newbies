@@ -1,4 +1,4 @@
-# Web 3.0 Resources for Newbies
+# Web 3.0 for Newbies
 
 
 ### Overviews & History
