@@ -4,6 +4,7 @@
 ### Overviews & History
 - <a href="https://www.youtube.com/watch?v=l44z35vabvA">What Exactly is Web3?</a> Talk by Juan Benet, founder and CEO of Protocol Labs, at Web3 Summit 2018 in Berlin. Covers what Web3 is and how it is part of a larger movement in which humanity is going from a pre-computing civilization to a post-computing civilization.
 - <a href="https://www.forbes.com/sites/juttasteiner/2018/10/26/what-the-heck-is-web-3-0-anyway/#8e6c8266614b">What the Heck is Web 3.0 Anyway?</a>: Forbes article by Jutta Steiner, CEO of Parity Technologies. Published in October 2018.
+- <a href="https://media.consensys.net/40-ethereum-apps-you-can-use-right-now-d643333769f7">90+ Ethereum Apps You Can Use Right Now</a>: A really handy post from the official Consensys blog, occasionally updated.
 - <a href="https://www.forbes.com/sites/juttasteiner/2019/04/03/fighting-the-citadels-that-own-our-data-how-web3-empowers-us-to-take-back-control/#2a46c4544af8">Fighting The Citadels That Own Our Data: How Web3 Empowers Us To Take Back Control</a>: Forbes article by Jutta Steiner, CEO of Parity Technologies. Published in April 2019.
 - <a href="https://www.youtube.com/watch?v=hYip_Vuv8J0">Blockchain Explained in 5 Levels of Difficulty</a>: Nice explainer by Bettina Warburg for Wired covering blockchain for several people, from a five-year-old on up to a fellow expert. 
 - <a href="https://www.youtube.com/watch?v=OM6XIICm_qo">The next Web of open, linked data</a>: 2009 TED talk by Sir Tim Berners-Lee about the importance of creating a new, semantic web of linked data.
