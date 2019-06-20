@@ -19,6 +19,7 @@
 - <a href="/https://polkadot.network/PolkaDotPaper.pdf">Polka Dot</a>
 - <a href="https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf">Basic Attention Token</a>
 - <a href="https://www.dispatchlabs.io/wp-content/uploads/2018/03/Technical-Whitepaper.pdf">Dispatch</a>
+- <a href="https://libra.org/en-US/white-paper/">Libra</a>
 
 ### Open Source Projects on GitHub
 - <a href="https://github.com/ethereum/web3.js">Web3.js</a>: Ethreum's JavaScript API
@@ -33,3 +34,18 @@
 - <a href="https://twitter.com/timberners_lee">@timberners_lee</a>
 - <a href="https://twitter.com/inrupt">@inrupt</a>
 - <a href="https://twitter.com/natadimou">@natadimou</a>
+- <a href="https://twitter.com/laurashin">@laurashin</a>
+- <a href="https://twitter.com/ConsenSys">@ConsenSys</a>
+- <a href="https://twitter.com/ethereumJoseph">@ethereumJoseph</a> 
+- <a href="https://twitter.com/gaborgurbacs">@gaborgurbacs</a>
+- <a href="https://twitter.com/coincenter">@coincenter</a>
+- <a href="https://twitter.com/OneMorePeter">@OneMorePeter</a>
+- <a href="https://twitter.com/blockchain">@blockchain</a>
+- <a href="https://twitter.com/VitalikButerin">@VitalikButerin</a>
+- <a href="https://twitter.com/BrendanEich">@BrendanEich</a>
+- <a href="https://twitter.com/brave">@brave</a>
+- <a href="https://twitter.com/tipeveryday">@tipeveryday</a>
+- <a href="https://twitter.com/jimmysong">@jimmysong</a>
+- <a href="https://twitter.com/niccary">@niccary</a>
+- <a href="https://twitter.com/jerrybrito">@jerrybrito</a>
+- <a href="https://twitter.com/dispatchlabsio">@dispatchlabsio</a>
