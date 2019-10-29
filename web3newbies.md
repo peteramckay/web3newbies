@@ -1,5 +1,7 @@
 # Web 3.0 for Newbies
 
+<img src="https://indizr.com/img/element5-unsplash.jpg" width="100%" width="auto">
+
 This is a collection of links to help newcomers learn about Web 3.0, including key principles, technical information, and prominent community members to follow on Twitter.
 
 The term "Web 3.0" is defined loosely here as anything that promotes decentralization of information online. It could apply to blockchain, distributed applications, semantic web markup, or many other things.
@@ -19,12 +21,10 @@ This collection will be curated and expanded over time, with input welcome from 
 - <a href="https://www.youtube.com/watch?v=aNisYrJCU6Q" >Building an On-Ramp to Web 3.0 in Brave Browser</a>: Talk by Ben Livshits, chief scientist at Brave Software, at Web 3 Summit 2018 in Berlin. Talk covers Ben's work on the Brave browser, which seeks to create a new peer-to-peer economy for digital content.
 - <a href="https://wiki.parity.io/">Parity Wiki:</a> Covers information about several of the company's products, comprising Parity Ethereum, Parity Substrate, Parity Fether, Parity Signer, and Parity UI.
 
-
-
 <!-- 
 
 
-From LP3 and Medill...
+Some links to add soon from LP3 and Medill...
 
 Why Software is eating the world...
 
@@ -89,8 +89,6 @@ Why Software is eating the world...
 
 
 -->
-
-
 
 ### Blockchain White Papers
 - <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin</a>
