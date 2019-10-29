@@ -12,40 +12,71 @@
 - <a href="https://www.nytimes.com/2006/11/12/business/12web.html">Entrepreneurs See a Web Guided by Common Sense</a> (Paywall): New York Times story from November 2006 by reporter John Markoff that uses the term "Web 3.0." Probably the earliest such reference in the popular press.
 - <a href="https://blog.indizr.com/how-we-got-to-web-3-0-2/">A brief release history of the web</a>: Blog post by consultant Peter A. McKay briefly summarizing how the web evolved from v1.0 to v3.0.
 - <a href="https://www.youtube.com/watch?v=aNisYrJCU6Q" >Building an On-Ramp to Web 3.0 in Brave Browser</a>: Talk by Ben Livshits, chief scientist at Brave Software, at Web 3 Summit 2018 in Berlin. Talk covers Ben's work on the Brave browser, which seeks to create a new peer-to-peer economy for digital content.
+- <a href="https://wiki.parity.io/">Parity Wiki:</a> Covers information about several of the company's products, comprising Parity Ethereum, Parity Substrate, Parity Fether, Parity Signer, and Parity UI.
 
 ### Blockchain White Papers
 - <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin</a>
 - <a href="https://github.com/ethereum/wiki/wiki/White-Paper">Ethereum</a>
 - <a href="/https://polkadot.network/PolkaDotPaper.pdf">Polka Dot</a>
 - <a href="https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf">Basic Attention Token</a>
-- <a href="https://www.dispatchlabs.io/wp-content/uploads/2018/03/Technical-Whitepaper.pdf">Dispatch</a>
 - <a href="https://libra.org/en-US/white-paper/">Libra</a>
+- <a href="">Tether</a> https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf
+- <a href="">MakerDAO</a> https://makerdao.com/en/whitepaper
+- <a href="">Wavelet</a> https://wavelet.perlin.net/whitepaper.pdf
+
+  WEF...
+    - Inclusive Deployment of Blockchain for Supply Chains: Part 1 – Introduction https://www.weforum.org/whitepapers/inclusive-deployment-of-blockchain-for-supply-chains-part-1-introduction
+    - Inclusive Deployment of Blockchain for Supply Chains Part 2 – Trustworthy verification of digital identities https://www.weforum.org/whitepapers/inclusive-deployment-of-blockchain-for-supply-chains-part-2-trustworthy-verification-of-digital-identities
+    - Inclusive Deployment of Blockchain for Supply Chains: Part 3 – Public or Private Blockchains – Which One Is Right for You? https://www.weforum.org/whitepapers/inclusive-deployment-of-blockchain-for-supply-chains-part-3-public-or-private-blockchains-which-one-is-right-for-you
+    - Inclusive Deployment of Blockchain for Supply Chains: Part 4 – Protecting Your Data https://www.weforum.org/whitepapers/inclusive-deployment-of-blockchain-for-supply-chains-part-4-protecting-your-data
+
+
+
 
 ### Open Source Projects on GitHub
 - <a href="https://github.com/ethereum/web3.js">Web3.js</a>: Ethreum's JavaScript API
 - <a href="https://github.com/w3f/polkadot-wiki">Polkadot Wiki</a>: Documentation for the Web 3 Foundation's multi-chain protocol.
 
 ### Recommended Twitter Accounts
-- <a href="https://twitter.com/web3foundation">@web3foundation</a>
-- <a href="https://twitter.com/convoluted_code">@convoluted_code</a>
-- <a href="https://twitter.com/jutta_steiner">@jutta_steiner</a>
-- <a href="https://twitter.com/BrendanEich">@BrendanEich</a>
+- <a href="https://twitter.com/blockchain">@blockchain</a>
+- <a href="https://twitter.com/brave">@brave</a>
 - <a href="https://twitter.com/BraveSampson">@BraveSampson</a>
-- <a href="https://twitter.com/timberners_lee">@timberners_lee</a>
-- <a href="https://twitter.com/inrupt">@inrupt</a>
-- <a href="https://twitter.com/natadimou">@natadimou</a>
-- <a href="https://twitter.com/laurashin">@laurashin</a>
+- <a href="https://twitter.com/BrendanEich">@BrendanEich</a>
+- <a href="https://twitter.com/coincenter">@coincenter</a>
 - <a href="https://twitter.com/ConsenSys">@ConsenSys</a>
+- <a href="https://twitter.com/convoluted_code">@convoluted_code</a>
 - <a href="https://twitter.com/ethereumJoseph">@ethereumJoseph</a> 
 - <a href="https://twitter.com/gaborgurbacs">@gaborgurbacs</a>
-- <a href="https://twitter.com/coincenter">@coincenter</a>
-- <a href="https://twitter.com/OneMorePeter">@OneMorePeter</a>
-- <a href="https://twitter.com/blockchain">@blockchain</a>
-- <a href="https://twitter.com/VitalikButerin">@VitalikButerin</a>
-- <a href="https://twitter.com/BrendanEich">@BrendanEich</a>
-- <a href="https://twitter.com/brave">@brave</a>
-- <a href="https://twitter.com/tipeveryday">@tipeveryday</a>
-- <a href="https://twitter.com/jimmysong">@jimmysong</a>
-- <a href="https://twitter.com/niccary">@niccary</a>
+- <a href="https://twitter.com/inrupt">@inrupt</a>
 - <a href="https://twitter.com/jerrybrito">@jerrybrito</a>
-- <a href="https://twitter.com/dispatchlabsio">@dispatchlabsio</a>
+- <a href="https://twitter.com/jimmysong">@jimmysong</a>
+- <a href="https://twitter.com/jutta_steiner">@jutta_steiner</a>
+- <a href="https://twitter.com/laurashin">@laurashin</a>
+- <a href="https://twitter.com/natadimou">@natadimou</a>
+- <a href="https://twitter.com/niccary">@niccary</a>
+- <a href="https://twitter.com/OneMorePeter">@OneMorePeter</a>
+- <a href="https://twitter.com/timberners_lee">@timberners_lee</a>
+- <a href="https://twitter.com/tipeveryday">@tipeveryday</a>
+- <a href="https://twitter.com/VitalikButerin">@VitalikButerin</a>
+- <a href="https://twitter.com/web3foundation">@web3foundation</a>
+
+
+
+
+
+  https://twitter.com/lopp
+  https://twitter.com/NickSzabo4
+  https://twitter.com/mikejcasey
+  https://twitter.com/naval
+  https://twitter.com/GoldenChaosGod
+  https://twitter.com/DoveyWan
+  https://twitter.com/davewiner
+  https://twitter.com/saronyitbarek
+  https://twitter.com/chrisinsilico
+  https://twitter.com/Snowden
+  https://twitter.com/xychelsea
+  https://twitter.com/hudsonjameson
+  https://twitter.com/BWarburg
+  https://twitter.com/evacide
+  https://twitter.com/vivian
+
