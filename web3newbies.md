@@ -15,7 +15,7 @@ This collection will be curated and expanded over time, with input welcome from 
 - <a href="https://www.forbes.com/sites/juttasteiner/2019/04/03/fighting-the-citadels-that-own-our-data-how-web3-empowers-us-to-take-back-control/#2a46c4544af8">Fighting The Citadels That Own Our Data: How Web3 Empowers Us To Take Back Control</a>: Forbes article by Jutta Steiner, CEO of Parity Technologies. Published in April 2019.
 - <a href="https://www.youtube.com/watch?v=hYip_Vuv8J0">Blockchain Explained in 5 Levels of Difficulty</a>: Nice explainer by Bettina Warburg for Wired covering blockchain for several people, from a five-year-old on up to a fellow expert. 
 - <a href="https://www.youtube.com/watch?v=OM6XIICm_qo">The next Web of open, linked data</a>: 2009 TED talk by Sir Tim Berners-Lee about the importance of creating a new, semantic web of linked data.
-- <a href=" https://a16z.com/2011/08/20/why-software-is-eating-the-world/">Software is Eating the World</a>: Wall Street Journal op-ed by Marc Andreessen. (2011)
+- <a href="https://a16z.com/2011/08/20/why-software-is-eating-the-world/">Software is Eating the World</a>: Wall Street Journal op-ed by Marc Andreessen. (2011)
 - <a href="https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/">Why Bitcoin Matters</a>: Guest post by Marc Andreessen on the New York Times' Dealbook blog. (2014)
 - <a href="https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e
 ">Why Decentralization Matters</a>: Medium post by VC Chris Dixon. (2018)
