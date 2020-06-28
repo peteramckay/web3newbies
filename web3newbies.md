@@ -15,39 +15,22 @@ This collection will be curated and expanded over time, with input welcome from 
 - <a href="https://www.forbes.com/sites/juttasteiner/2019/04/03/fighting-the-citadels-that-own-our-data-how-web3-empowers-us-to-take-back-control/#2a46c4544af8">Fighting The Citadels That Own Our Data: How Web3 Empowers Us To Take Back Control</a>: Forbes article by Jutta Steiner, CEO of Parity Technologies. Published in April 2019.
 - <a href="https://www.youtube.com/watch?v=hYip_Vuv8J0">Blockchain Explained in 5 Levels of Difficulty</a>: Nice explainer by Bettina Warburg for Wired covering blockchain for several people, from a five-year-old on up to a fellow expert. 
 - <a href="https://www.youtube.com/watch?v=OM6XIICm_qo">The next Web of open, linked data</a>: 2009 TED talk by Sir Tim Berners-Lee about the importance of creating a new, semantic web of linked data.
+- <a href=" https://a16z.com/2011/08/20/why-software-is-eating-the-world/">Software is Eating the World</a>: Wall Street Journal op-ed by Marc Andreessen. (2011)
+- <a href="https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/">Why Bitcoin Matters</a>: Guest post by Marc Andreessen on the New York Times' Dealbook blog. (2014)
+- <a href="https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e
+">Why Decentralization Matters</a>: Medium post by VC Chris Dixon. (2018)
 - <a href="https://www.youtube.com/watch?v=vF3dLP8I-eY">High-Quality Linked Data Generation</a>: Talk by researcher Anastasia Dimou, delivered December 2017 at SWIB17 conference in Hamburg.
 - <a href="https://www.nytimes.com/2006/11/12/business/12web.html">Entrepreneurs See a Web Guided by Common Sense</a> (Paywall): New York Times story from November 2006 by reporter John Markoff that uses the term "Web 3.0." Probably the earliest such reference in the popular press.
-- <a href="https://blog.indizr.com/how-we-got-to-web-3-0-2/">A brief release history of the web</a>: Blog post by consultant Peter A. McKay briefly summarizing how the web evolved from v1.0 to v3.0.
+- <a href="https://medium.com/@peteramckay/a-brief-release-history-of-the-web-aeef5bb3b814">A brief release history of the web</a>: Blog post by consultant Peter A. McKay briefly summarizing how the web evolved from v1.0 to v3.0.
 - <a href="https://www.youtube.com/watch?v=aNisYrJCU6Q" >Building an On-Ramp to Web 3.0 in Brave Browser</a>: Talk by Ben Livshits, chief scientist at Brave Software, at Web 3 Summit 2018 in Berlin. Talk covers Ben's work on the Brave browser, which seeks to create a new peer-to-peer economy for digital content.
 - <a href="https://wiki.parity.io/">Parity Wiki:</a> Covers information about several of the company's products, comprising Parity Ethereum, Parity Substrate, Parity Fether, Parity Signer, and Parity UI.
 
 <!-- 
 
 
-Some links to add soon from LP3 and Medill...
-
-Why Software is eating the world...
-
-
-  https://a16z.com/2011/08/20/why-software-is-eating-the-world/
-
-  https://bitcoin.org/bitcoin.pdf
-
-  https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/
-
-  https://medium.com/s/story/why-decentralization-matters-5e3f79f7638e
+Some possible adds, suggested by Lawrence Patrick, used for a reading list he distributed while teaching a course at Medill Journalism School. A lot of good possibilities here but list needs some additional vetting/curation as a few may not quite be relevant to this particular project...
 
   https://opensource.org/osd-annotated
-
-  https://www.gnu.org/licenses/gpl-3.0.html
-
-  https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
-
-  https://www.slideshare.net/kleinerperkins/internet-trends-report-2018-99574140
-
-  https://hbr.org/2013/05/why-the-lean-start-up-changes-everything
-
-  https://www.washingtonpost.com/lifestyle/style/how-san-francisco-broke-americas-heart/2019/05/21/ef9a0ac0-70ea-11e9-9eb4-0828f5389013_story.html?utm_term=.c0275e2740c9
 
   https://www.wired.com/story/facebook-mark-zuckerberg-15-months-of-fresh-hell/
 
@@ -57,11 +40,9 @@ Why Software is eating the world...
 
   https://blog.aboutamazon.com/company-news/2018-letter-to-shareholders
 
-  https://www.revealnews.org/article/heres-the-clearest-picture-of-silicon-valleys-diversity-yet/
-
-  https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/
-
   https://medium.com/kapor-the-bridge/building-a-vc-2-0-53a85bf935c0
+
+
 
   Audio
 
@@ -77,16 +58,16 @@ Why Software is eating the world...
   https://www.ted.com/talks/jack_dorsey_how_twitter_needs_to_change?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
 
   https://www.commonwealthclub.org/events/archive/video/emily-changs-brotopia-one-year-later
+  
   https://www.vanityfair.com/news/2018/01/brotopia-silicon-valley-secretive-orgiastic-inner-sanctum?verso=true
 
   https://video.wired.com/watch/anand-giridharadas-virginia-heffernan-techno-utopianism
 
+
+
   Optional Additional Reads
 
   http://jointventure.org/images/stories/pdf/index2019.pdf
-
-  https://www.gatesnotes.com/2019-Annual-Letter
-
 
 -->
 
